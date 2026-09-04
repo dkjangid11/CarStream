@@ -117,8 +117,8 @@
 /* Begin PBXFileReference section */
 		A2A2A2A12F10000100000003 /* SelfAirPlayTunnel.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = SelfAirPlayTunnel.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		19C5FAFFB12297CEF104A69C /* ../CarStream/CarStreamCarPlayControlShared.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = "../CarStream/CarStreamCarPlayControlShared.swift"; sourceTree = "<group>"; };
-		1EAEE49E4CE7E2CA8425235D /* CarStreamCarPlayControlsWidget.entitlements */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.entitlements; path = CarStreamCarPlayControlsWidget.entitlements; sourceTree = "<group>"; };
-		30EC028B761D645CE91C64D9 /* CarStreamCarPlayControlsWidget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CarStreamCarPlayControlsWidget.swift; sourceTree = "<group>"; };
+		1EAEE49E4CE7E2CA8425235D /* CarStreamCarPlayControlsWidget.entitlements */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.entitlements; path = CarStreamCarPlayControlsWidget/CarStreamCarPlayControlsWidget.entitlements; sourceTree = "<group>"; };
+		30EC028B761D645CE91C64D9 /* CarStreamCarPlayControlsWidget.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CarStreamCarPlayControlsWidget/CarStreamCarPlayControlsWidget.swift; sourceTree = "<group>"; };
 		6554094B523764805CD212B4 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA98FA29EA555E83C45AADAE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E3AA5FBEFEF12C032F964D59 /* CarStreamCarPlayControlsWidget.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = CarStreamCarPlayControlsWidget.appex; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -351,7 +351,7 @@
 				6554094B523764805CD212B4 /* Info.plist */,
 				1EAEE49E4CE7E2CA8425235D /* CarStreamCarPlayControlsWidget.entitlements */,
 			);
-			path = CarStreamCarPlayControlsWidget;
+			name = CarStreamCarPlayControlsWidget;
 			sourceTree = "<group>";
 		};
 		4DA382AD44C7A8D9D2DF10A0 /* iOS */ = {
